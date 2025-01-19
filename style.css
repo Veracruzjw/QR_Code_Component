@@ -13,7 +13,7 @@ body{
     height: 100vh;
 }
 
-section {
+main{
     width: 320px;
     font-family: "Outfit", sans-serif;
     height: auto;
